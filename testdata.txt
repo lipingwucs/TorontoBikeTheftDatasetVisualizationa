@@ -1,0 +1,16 @@
+[{"Occurrence_Month":1 , "Occurrence_Time":1, "Bike_Colour":1, "Cost_of_Bike":200.00, "Hood_ID": 56, 
+     "Premise_Type_Apartment": 0, "Premise_Type_Commercial":0, "Premise_Type_House":0, "Type_Other": 1,  "Premise_Type_Outside":0, 
+      "Bike_Make_CC":1, "Bike_Make_GI":0, "Bike_Make_GIANT":0, "Bike_Make_NO":0, "Bike_Make_OT":0, "Bike_Make_Other":0, "Bike_Make_TR":0, "Bike_Make_UK":0},
+
+{"Occurrence_Month":7 , "Occurrence_Time":12, "Bike_Colour":1, "Cost_of_Bike":600, "Hood_ID": 56, 
+     "Premise_Type_Apartment": 0, "Premise_Type_Commercial":0, "Premise_Type_House":0, " Type_Other":1, "Premise_Type_Outside":0, 
+      "Bike_Make_CC":0, "Bike_Make_GI":0, "Bike_Make_GIANT":0, "Bike_Make_NO":0, "Bike_Make_OT":1, "Bike_Make_Other":0, "Bike_Make_TR":0, "Bike_Make_UK":0},
+
+{"Occurrence_Month":12 , "Occurrence_Time":3, "Bike_Colour":0, "Cost_of_Bike":100000, "Hood_ID": 42, 
+     "Premise_Type_Apartment": 0, "Premise_Type_Commercial":0, "Premise_Type_House":1, " Type_Other":0, "Premise_Type_Outside":0, 
+      "Bike_Make_CC":0, "Bike_Make_GI":1, "Bike_Make_GIANT":0, "Bike_Make_NO":0, "Bike_Make_OT":0, "Bike_Make_Other":0, "Bike_Make_TR":0, "Bike_Make_UK":0},
+
+{"Occurrence_Month":2 , "Occurrence_Time":3, "Bike_Colour":0, "Cost_of_Bike":10, "Hood_ID": 110, 
+"Premise_Type_Apartment": 0, "Premise_Type_Commercial":0, "Premise_Type_House":1, " Type_Other":0, "Premise_Type_Outside":0, 
+"Bike_Make_CC":0, "Bike_Make_GI":1, "Bike_Make_GIANT":0, "Bike_Make_NO":0, "Bike_Make_OT":0, "Bike_Make_Other":0, "Bike_Make_TR":0, "Bike_Make_UK":0}
+]
